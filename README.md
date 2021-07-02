@@ -1,2 +1,1 @@
-# whjr-pro-c-38
-(mario game)
+# PRO-C37-INFINITE-RUNNER-GAME
